@@ -1,0 +1,2 @@
+Practicas Programacion avanzada UAH GIC 13/14
+Repositorio con las practicas de la asignatura del año 13/14, las practicas incluyen los conceptos basicos y estan comentadas ademas se añade una memoria de la misma para mayor comprension.
